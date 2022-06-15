@@ -1,5 +1,21 @@
-# 👋 Hi, I’m Samuel Castillo or @samuelcastillogt React Developer from Guatemala
-I am from Guatemala, live in Guatemala City and work as web developer.
--I enjoy play the guitar but i do not live this. I work in my proyects, usually use Firebase, Nodejs and Express.
-- I am a Fullstack developer in JavaScript. 
-- NodeJs, Express, EJS, MongoDB, Firebase, ReactJs.
+# 👋 Hi, I'm Samuel Castillo or @samuelcastillogt frontend Developer
+<p>Vivo en Guatemala, soy <b>frontend developer</b> especializado en JavaScript. Cuento con mas de 5 años de experiencia profesional en programacion</p>
+<h3>Tecnologias en el Frontend</h3>
+<ul>
+  <li>React js</li>
+  <li>React Native</li>
+  <li>JavaScript</li>
+  <li>HTML</li>
+  <li>Sass</li>
+  <li>Next js</li>
+  <li>Webpack</li>
+  <li>Babel</li>
+</ul>
+<h3>Tecnologias en el Backend</h3>
+<ul>
+ <li>Node js</li>
+  <li>Firebase</li>
+  <li>JWT</li>
+  <li>Express</li>
+  <li>EJS</li>
+</ul>
