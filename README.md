@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Castillo or @samuelcastillogt frontend Developer
-<p>Vivo en Guatemala, soy <b>frontend developer</b> especializado en JavaScript. Cuento con mas de 5 años de experiencia profesional en programacion</p>
-<h3>Tecnologias en el Frontend</h3>
+<p>I live in Guatemala, I am a <b>frontend developer</b> specialized in JavaScript. I have more than 5 years of professional programming experience.</p>
+<h3>Frontend</h3>
 <ul>
   <li>React js</li>
   <li>React Native</li>
@@ -11,7 +11,7 @@
   <li>Webpack</li>
   <li>Babel</li>
 </ul>
-<h3>Tecnologias en el Backend</h3>
+<h3>Backend</h3>
 <ul>
  <li>Node js</li>
   <li>Firebase</li>
